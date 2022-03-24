@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wyatt Habinski
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Computer Science at McMaster University
+- 📚 I’m currently learning Computer Science at McMaster University
 - 📫 You can reach me via email at whabinski@hotmail.com
 
 <!---
